@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecognitionApp</string>
+    <string name="open_camera">Открыть камеру</string>
+    <string name="switch_camera">Развернуть камеру</string>
+</resources>
